@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394926e1673a38a4cafb65202441a52f, type: 3}
+  m_Name: CherryOnTop
+  m_EditorClassIdentifier: 
+  videoName: Cherry on Top
+  videoClientID: The Second City
+  videoRole: Director
+  videoDescription: This short I directed was part of the SXSW Film Festival in Austin,
+    TX as part of the "Midnight Shorts" block. It is probably not "Safe For Work."
+    It was written by Travina Springer and Charity L. Miller for The Second City's
+    "7 Day Shorts."
+  videoThumbnail: {fileID: 2800000, guid: bc082f9199f483647af82415d87a3364, type: 3}

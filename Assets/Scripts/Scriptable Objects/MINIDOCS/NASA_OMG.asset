@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394926e1673a38a4cafb65202441a52f, type: 3}
+  m_Name: NASA_OMG
+  m_EditorClassIdentifier: 
+  videoName: 'NASA: Oceans Melting Greenland'
+  videoClientID: Earther
+  videoRole: Producer/Editor
+  videoDescription: I produced this video with NASA scientist Josh Willis for Earther,
+    Gizmodo's Earth Science brand. It received over 1.4 million video views.
+  videoThumbnail: {fileID: 2800000, guid: c240676dd07b41b4e88c6e3ef2e13937, type: 3}
